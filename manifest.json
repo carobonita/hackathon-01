@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Images and Quotes",
+    "version": "1.0.1",
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+      },
+      "permissions": ["https://api.unsplash.com/photos/random?orientation=squarish"]
+
+}

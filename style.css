@@ -1,0 +1,22 @@
+body {
+    background-color: moccasin;
+}
+
+#image {
+    margin: auto;
+    box-shadow: 25px 25px 25px;
+    width: 60%;
+    display: block;
+    align-items: center;
+}
+
+#quote {
+    font-family: cursive;
+    font-size: 40px;
+    color: black;
+    top: 20px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 25px;
+}
